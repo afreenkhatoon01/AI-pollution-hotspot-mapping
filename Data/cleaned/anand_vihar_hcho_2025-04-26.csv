@@ -1,0 +1,2 @@
+date,location,latitude,longitude,raw_pixel_value,scale_factor,hcho_column_mol_m2,units,source,spatial_resolution,measurement_type
+2025-04-26,"Anand Vihar, Delhi",28.65,77.316,264.321533203125,9.999999974752427e-07,0.0002643215325357773,mol/m2,DLR Sentinel-5P TROPOMI OFFL L3 HCHO,5.5 x 3.5 km2,satellite atmospheric total column
